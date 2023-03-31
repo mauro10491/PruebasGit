@@ -11,6 +11,6 @@ package com.mycompany.pruebasgit1;
 public class Pruebasgit1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Mauricio Alzate Ocampo");
     }
 }
